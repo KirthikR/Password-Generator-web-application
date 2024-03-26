@@ -19,7 +19,7 @@ This is the skeleton of a webpage written in HTML, the language used to create w
 * It includes elements like headings, forms, input fields, buttons, and text.
 # Content:
 
-* There's a heading (<h1>) welcoming users to a "Password Generator" application.
+* There's a heading welcoming users to a "Password Generator" application.
 * Below the heading, there's a form with input fields for a username and password.
 * Each input field has a label (<label>) describing what information should be entered.
 * The password input field also includes a sad face emoji to emphasize the importance of password security.
