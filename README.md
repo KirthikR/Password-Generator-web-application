@@ -4,7 +4,7 @@
 This is the skeleton of a webpage written in HTML, the language used to create web pages.
 # Document Type Declaration:
 
-<!DOCTYPE html>: It tells the web browser that this document is written in HTML5, the latest version of HTML.
+* <!DOCTYPE html>: It tells the web browser that this document is written in HTML5, the latest version of HTML.
 # Head Section:
 
 * <head>: This section contains metadata about the document, such as the character encoding and viewport settings.
